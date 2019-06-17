@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="22.546162">
+<testcase classname="automationpractice" name="Mouseover first item in popular list" time="22.546162">
+<system-out><![CDATA[Given user should be on homepage............................................passed
+And Click on Add to Cart button that appears on mouseover...................passed
+When transfer control to popup that appears.................................passed
+And verify product added message............................................passed
+Then click on Continue Shopping button in popup.............................passed
+When transfer control to main page..........................................passed
+Then close the window.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
